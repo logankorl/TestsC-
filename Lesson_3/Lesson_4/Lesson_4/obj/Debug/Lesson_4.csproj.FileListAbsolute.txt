@@ -1,0 +1,14 @@
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\bin\Debug\Lesson_4.exe.config
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\bin\Debug\Lesson_4.exe
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\bin\Debug\Lesson_4.pdb
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\obj\Debug\Lesson_4.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\obj\Debug\Lesson_4.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\obj\Debug\Lesson_4.exe
+C:\Users\Любовь\Desktop\Lesson_4\Lesson_4\obj\Debug\Lesson_4.pdb
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\obj\Debug\Lesson_4.csprojAssemblyReference.cache
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\obj\Debug\Lesson_4.csproj.CoreCompileInputs.cache
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\obj\Debug\Lesson_4.exe
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\obj\Debug\Lesson_4.pdb
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\bin\Debug\Lesson_4.exe.config
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\bin\Debug\Lesson_4.exe
+C:\Users\boush\source\repos\Lesson_3\Lesson_4\Lesson_4\bin\Debug\Lesson_4.pdb
